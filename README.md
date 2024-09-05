@@ -3,6 +3,7 @@ A shell script working for Linux to read out power consumption based on Intel RA
 
 # Prerequirests
 You need to firstly install [msrtool](http://coreboot.org/Msrtool) that have rdmsr command that the shell script depends on.
+
 Under Ubuntu you can easily install by command:
 ```
 sudo apt install msr-tools
